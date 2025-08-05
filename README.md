@@ -15,7 +15,7 @@ Backend-(Python django)
 ### 1. Clone the Repository
 
 > git clone https://github.com/shibinshanty/Product-List/tree/main/product-backend
-> cd cd Product-List/product-backend
+> cd Product-List/product-backend
 
 # Create virtual environment
 > python -m venv env
