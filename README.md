@@ -46,10 +46,12 @@ Backend-(Python django)
 └── README.md
 
 ### 1. Clone the Repository
-> git clone https://github.com/your-username/frontend.git
-> cd  product-frontend
+> git clone https://github.com/shibinshanty/Product-List/tree/main/product-frontend
+> cd Product-List/product-frontend
 
 > npm install
+
+> npm run dev
 
 > npm run dev         
 
