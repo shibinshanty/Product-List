@@ -21,12 +21,7 @@ Backend-(Python django)
 > python -m venv env
 
  # Activate:
-# For Windows:
 > env\Scripts\activate
-
-
-# For Linux/macOS:
-> source env/bin/activate
 
  #Install Dependencies
  > pip install -r requirements.txt
