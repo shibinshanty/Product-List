@@ -53,7 +53,7 @@ Backend-(Python django)
 
 > npm run dev
 
-> npm run dev         
+       
 
 
   
